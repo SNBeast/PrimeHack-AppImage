@@ -7,5 +7,5 @@ Type=Application
 Categories=Game;Emulator;
 Name=PrimeHack
 GenericName=Metroid Prime Trilogy Emulator
-StartupWMClass=primehack
+StartupWMClass=dolphin-emu
 Comment=Dolphin fork intended to give Metroid Prime Trilogy mouselook controls
